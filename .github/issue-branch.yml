@@ -7,4 +7,4 @@ branches:
 - label: enhancement
   name: develop
   prefix: enhancement/
-  openDraftPR: true
+openDraftPR: true
