@@ -1,4 +1,4 @@
-mode: chatops
+mode: auto
 silent: false
 branches:
 - label: refactor
